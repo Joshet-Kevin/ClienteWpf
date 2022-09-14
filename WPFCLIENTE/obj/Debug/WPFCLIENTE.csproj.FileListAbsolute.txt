@@ -1,0 +1,15 @@
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\bin\Debug\WPFCLIENTE.exe.config
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\bin\Debug\WPFCLIENTE.exe
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\bin\Debug\WPFCLIENTE.pdb
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.csproj.AssemblyReference.cache
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\MainWindow.g.cs
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\App.g.cs
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE_MarkupCompile.cache
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE_MarkupCompile.lref
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\MainWindow.baml
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.g.resources
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.Properties.Resources.resources
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.csproj.GenerateResource.cache
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.exe
+C:\Users\Joshet\source\repos\WPFCLIENTE\WPFCLIENTE\obj\Debug\WPFCLIENTE.pdb
